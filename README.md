@@ -1,4 +1,4 @@
-# TestPoMath
+Integrali - kak se smqtat
 
 Wolfram alpha 
 
