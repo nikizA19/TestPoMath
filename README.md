@@ -21,4 +21,7 @@ solve (цялото derivative of .... > 0 или < 0)
 
 8 зад: 5^5^1000 mod 325
 
+![image](https://github.com/nikizA19/TestPoMath/assets/123009354/d310799e-40cb-4abf-b7b6-2a4663a12ab1)
+
+
 
